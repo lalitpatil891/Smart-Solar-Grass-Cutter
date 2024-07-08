@@ -1,0 +1,89 @@
+1st Mail
+
+Dear Editor,
+
+I hope this email finds you well.
+
+I am writing to submit our research paper titled “Smart Solar Grass Cutter” for consideration in the Gradiva Review Journal. This paper explores an innovative approach to automated lawn maintenance, leveraging solar power to reduce manual labor and improve efficiency. The manuscript has been prepared in accordance with your guidelines and is attached for your review.
+
+Details:
+
+Title: Smart Solar Grass Cutter
+Authors: Rijavan Shaikh, Mayur Pawar, Lalit Patil, and Laukik Panpatil
+Affiliation: Department of Computer Engineering, P. S. G. V. P. Mandal’s D. N. Patel College of Engineering, Shahada, Dist.- Nandurbar, Maharashtra, India
+Corresponding Author: Lalit Patil
+Email: lalitpatil8901@gmail.com
+Abstract: In today’s era, home decoration's integral part is the lawn. Manual grass cutting demands significant labor and time, often resulting in uneven grass height. To address these problems, it is crucial to develop an automated system capable of mowing the grass without human intervention. This proposed system implements a robot with a solar-powered mechanism and battery backup that can be charged by solar energy. The system drives a robot that works in both automatic and manual modes. A user has to select the initial starting point from which the grass cutting of the lawn is to be started. The robotic system then automatically decides the path by detecting obstacles with ultrasonic sensors. The navigation system then decides which direction to go further by internal logic. The system can also be operated using an Android phone application. The grass cutter uses a solar-based energy source to charge the battery, which is easier to use and more advantageous compared to other energy sources, especially gas-based power sources.
+
+This research is highly relevant to your readers due to its innovative approach to sustainable and efficient lawn maintenance.
+
+I confirm that this manuscript is original, unpublished, and not under review elsewhere. All authors have approved the submission.
+
+Please let me know if any additional information is needed. I look forward to your response.
+
+Thank you for considering our submission.
+
+Best regards,
+
+Lalit Patil
+Bachelor of Technology(Computer Engineering) Final Year
+P. S. G. V. P. Mandal’s D. N. Patel College of Engineering
+Shahada, Dist.- Nandurbar, Maharashtra, India
+Email: lalitpatil8901@gmail.com
+Phone: +91 7038898336
+
+Attachments:
+
+Manuscript
+
+--------------------------------------------------------------------------------------------
+mail replyed
+
+
+Dear Author,
+
+Paper Accepted: Volume 10, Issue 6, 2024
+
+Your Manuscript ID :  GRJ/7282
+
+Please find the attachments of Acceptance letter along with Registration form and copyright form. 
+
+Processing charges for maintaining article online and soft copy of E-Certificates for each authors.
+
+The registration fee is Rs 2360 INR                     
+
+Please intimate after submitting your processing charges. 
+
+Scanned/screenshot copy of the payment receipt is required.       
+
+Note: Fee paid for the publication of the paper does not refund under any circumstances.
+
+UPI PAYMENT MODE
+
+ 
+
+image.png
+ 
+
+Note: Please submit the payment proof as early as possible after payment.
+
+
+
+--
+Thank You
+Editor-In-Chief
+GRADIVA REVIEW JOURNAL
+
+-----------------------------------------------------------------------------------------------
+after payment - our paper is publish and get's our certificates.
+
+
+Dear Author,
+
+Please follow the Publication link below.
+
+https://gradivareview.com/volume-10-issue-6-2024/
+
+Please find the certificates attached below.
+
+
